@@ -14,7 +14,7 @@ Feel free to connect and discuss new projects.
   <div>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/GeoPandas-Geospatial%20Analysis-2E8B57?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/GeoPandas-GeoSpatial%20Data%20Analysis-2E8B57?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
     <br>
     <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
