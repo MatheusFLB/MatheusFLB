@@ -11,8 +11,8 @@ Feel free to connect and discuss new projects.
 
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-Geospatial%20Analysis-2E8B57?style=for-the-badge&logo=python)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFLB&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=MatheusFLB&layout=compact&langs_count=8&theme=dark&hide_border=true)
 
 ![Skills](https://skillicons.dev/icons?i=python,docker,linux,git,html,css,js)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MatheusFLB&theme=github-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MatheusFLB&layout=compact&theme=github-dark&hide_border=true)
