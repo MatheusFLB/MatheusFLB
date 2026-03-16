@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**MatheusFLB/MatheusFLB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Matheus Bissoli.  
+Feel free to connect and discuss new projects.
 
-Here are some ideas to get you started:
+[![Email](https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusfranciscobissoli@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus%20Bissoli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusbissoli/)
+
+---
+
+![GeoPandas](https://img.shields.io/badge/GeoPandas-Geospatial%20Analysis-2E8B57?style=for-the-badge&logo=python)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFLB&layout=compact&theme=github_dark)
+
+![Skills](https://skillicons.dev/icons?i=python,docker,linux,git,html,css,js)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MatheusFLB&theme=github-dark)
