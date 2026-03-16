@@ -1,6 +1,6 @@
-## Hi there 👋
+## 👋 Hi, I'm Matheus Bissoli
 
-I'm Matheus Bissoli.  
+I'm Matheus Bissoli
 Feel free to connect and discuss new projects.
 
 [![Email](https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusfranciscobissoli@gmail.com)
