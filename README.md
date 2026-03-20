@@ -27,6 +27,6 @@ Feel free to connect and discuss new projects.
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=MatheusFLB&layout=compact&langs_count=8&theme=github_dark&hide_border=true" width="700" style="display:block;margin:14px auto;" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusFLB&layout=compact&theme=github-dark&hide_border=true" width="700" style="display:block;margin:14px auto;" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=MatheusFLB&layout=compact&langs_count=8&theme=github_dark&title_color=ffffff&color=ffffff&hide_border=true" width="700" style="display:block;margin:14px auto;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusFLB&layout=compact&theme=github-dark&hide_border=true&color=ffffff&line=00ff00&point=00ff00&area=true&area_color=00ff00&title_color=ffffff" width="700" style="display:block;margin:14px auto;" />
 </div>
